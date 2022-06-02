@@ -1,0 +1,15 @@
+D:\подготовка к демо\Airlines\Airlines\bin\Debug\Airlines.exe.config
+D:\подготовка к демо\Airlines\Airlines\bin\Debug\Airlines.exe
+D:\подготовка к демо\Airlines\Airlines\bin\Debug\Airlines.pdb
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.csprojAssemblyReference.cache
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\MainWindow.g.cs
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\App.g.cs
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines_MarkupCompile.cache
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines_MarkupCompile.lref
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\MainWindow.baml
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.g.resources
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.Properties.Resources.resources
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.csproj.GenerateResource.cache
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.csproj.CoreCompileInputs.cache
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.exe
+D:\подготовка к демо\Airlines\Airlines\obj\Debug\Airlines.pdb
